@@ -1,0 +1,10 @@
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/bin/Debug/netstandard2.0/Base.deps.json
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/bin/Debug/netstandard2.0/Base.dll
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/bin/Debug/netstandard2.0/Base.pdb
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.csproj.AssemblyReference.cache
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.AssemblyInfoInputs.cache
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.AssemblyInfo.cs
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.csproj.CoreCompileInputs.cache
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.dll
+/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Base/obj/Debug/netstandard2.0/Base.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyX0MDBvrS2VnApBvEg6M0mqj86EAC1maHyBdc7j7yPAaHx62rLXFhizHZ089ogxe2aZU2TQi65FZejwSDCCnA==",
+  "success": true,
+  "projectFilePath": "/Users/ishankvasania/Documents/Docugami/TakeHome-IshankVasania/src/csharp/Implementation/Implementation.csproj",
+  "expectedPackageFiles": [
+    "/Users/ishankvasania/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ishankvasania/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ishankvasania/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
